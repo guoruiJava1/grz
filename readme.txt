@@ -3,3 +3,4 @@ git is free software
 git hello
 git good!!!
 git tracks change of hello
+Creating a new branch is quick
