@@ -4,3 +4,4 @@ git hello
 git good!!!
 git tracks change of hello
 Creating a new branch is quick
+Creating a new branch is quick AND simple
