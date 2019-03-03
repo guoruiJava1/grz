@@ -1,5 +1,5 @@
 git is a distributed version control system
-git is free software
+git is a free software
 git hello
 git good!!!
 git tracks change of hello
