@@ -1,4 +1,4 @@
-git is a distributed version control system
+qgit is a distributed version control system
 git is a free software
 git hello
 git good!!!
