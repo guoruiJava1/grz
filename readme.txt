@@ -1,4 +1,4 @@
-asdqgit is a distributed version control system
+asdqgit is a distributed version control systeqwm
 git is a free software
 git hello
 git good!!!
